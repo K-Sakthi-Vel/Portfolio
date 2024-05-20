@@ -1,0 +1,89 @@
+.course_section{
+    position: relative;
+    height:650px;
+    width: 100%;
+    background-color: #1f1f11;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+.course_heading{
+    position: relative;
+    top: 30px;
+    text-align: center;
+    color: white;
+    font-size: 3rem;
+    display: block;
+    
+}
+.course_list{
+    position: relative;
+    top: 50px;
+    height: auto;
+    width: 90%;
+    margin: auto;
+}
+.course_1{
+    height: 100%;
+    width: 60%;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 0px 0px 100px 10px #ff6060;
+    padding: 20px;
+    padding-bottom: 30px;
+    background-image: url("../assets/images/coding_ninjas.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.course_name{
+    position: relative;
+    top: -10px;
+    left: 20px;
+    font-size: 1.7rem;
+    color: #ff6060;
+}
+.course_centre{
+    position: relative;
+    top: -30px;
+    left: 20px;
+    font-size: 1.5rem;
+    color: white;
+    
+}
+.course_duration{
+    position: relative;
+    left: 20px;
+    top: -30px;
+    font-size: 1.1rem;
+    color: gray;
+}
+.course_chapter_title{
+    font-size: 1.5rem;
+    margin-left: 20px;
+    margin-top: -30px;
+    text-decoration: underline;
+    color:aliceblue;
+}
+.chapters_list{
+    height: auto;
+    width: 100%;
+    margin-left: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.chapter{
+    padding: 7px;
+    color: white;
+    border-radius: 10px;
+    font-size: .8rem;
+    background-color: #ff6060;
+}
+.description{
+    position: relative;
+    width: 95%;
+    left: 20px;
+    color: aliceblue;
+    font-size: large;
+    text-align: justify;
+}

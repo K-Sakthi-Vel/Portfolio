@@ -1,0 +1,57 @@
+.navbar{
+    position: sticky;
+    top: 0;
+    height: 90px;
+    width: 100%;
+    z-index: 2;
+    background-color: #1f1f1f;
+    border-radius: 0px 0px 20px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.profile_and_name{
+    position: relative;
+    left: 20px;
+    display: flex;
+    align-items: center;
+
+}
+.portfolio_name{
+    position: relative;
+    left: 10px;
+    font-size: 2.3rem;
+    color: white;
+    background-color: inherit;
+}
+.quick_links{
+    margin-right: 10px;
+    width: auto;
+    display: flex;
+    align-items: center;
+    color: aliceblue;
+    font-size: 1.2rem;
+    font-weight: 500;
+    gap: 20px;
+}
+.scroll_to{
+    width: fit-content;
+    height: fit-content;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.scroll_to:hover{
+    border-radius: 10px;
+    background-color: lightblue;
+    color: #1f1f1f;
+    cursor: pointer;
+    box-shadow: 0px 0px 20px 3px lightblue;
+    
+}
+.profile_pic{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    transition: all .5s ease-in-out;
+    
+}

@@ -1,0 +1,123 @@
+.skills_section{
+    height: fit-content;
+    width: 100%;
+    background-color: violet;
+    margin-top: 30px;
+    background-color: #1f1f1f;
+    border-radius: 20px;
+    /* padding: 1px; */
+
+}
+.heading_skills{
+    position: relative;
+    top: 30px;
+    text-align: center;
+    color: white;
+    font-size: 3rem;
+}
+.skills_list{
+    position: relative;
+    /* top: 40px; */
+    width: 90%;
+    height: auto;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 20px;
+    padding-top: 40px;
+}
+.skill{
+    position: relative;
+    height: 150px;
+    width: 150px;
+    padding: 20px;
+    border-radius: 20px;
+    background-image: linear-gradient(to top, #1f1f1f 25%, white 10%);
+    border: 1px solid darkorchid;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0 0 100px violet;
+
+}
+.skill_name{
+    position:absolute;
+    bottom: -25px;
+    display: block;
+    color: aliceblue;
+    font-size: 2em;
+    text-align: center;
+    text-wrap: nowrap;
+    /* font-stretch:wider; */
+}
+.skill img{
+    position: absolute;
+}
+.python_image{
+    height: 100px;
+    width: 100px;            
+}
+.javascript_image{
+    height: 100px;
+    width: 100px;    
+}
+.react_image{
+    height: 100px;
+    width: 100px;    
+}
+.html_image{
+    height: 100px;
+    width: 100px;    
+}
+.css_image{
+    height: 100px;
+    width: 100px;
+}
+.redux_image{
+    height: 120px;
+    width: 120px;
+}
+.bootstrap_image{
+    height: 130px;
+    width: 130px;
+}
+.node_js_image{
+    height: 120px;
+    width: 120px;
+}
+.express_image{
+    margin-top: 40px;
+    height: 40px;
+    width: 150px;
+}
+.mongodb_image{
+    height: 120px;
+    width: 120px;
+}
+.firebase_image{
+    height: 100px;
+    width: 100px;
+}
+.mysql_image{
+    height: 130px;
+    width: 130px;
+}
+.dbms_image{
+    height: 120px;
+    width: 120px;
+}
+.jquery_image{
+    height: 120px;
+    width: 120px;
+}
+.systemdesign_image{
+    height: 100px;
+    width: 100px;
+}
+.operatingsystem_image{
+    margin-top: -5px;
+    height: 100px;
+    width: 100px;
+}

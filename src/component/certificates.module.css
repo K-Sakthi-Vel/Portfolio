@@ -1,0 +1,99 @@
+.certificates_section{
+    position: relative;
+    height:1900px;
+    width: 100%;
+    background-color: #1f1f11;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+.certificates_section_heading{
+    position: relative;
+    top: 30px;
+    text-align: center;
+    color: white;
+    font-size: 3rem;
+    display: block;
+    
+}
+.certificates_list{
+    position: relative;
+    top: 50px;
+    height: 300px;
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    gap: 30px;
+    padding: 20px;
+    box-sizing: border-box;
+    
+}
+.certificate{
+    position: relative;
+    height: auto;
+    width: 300px;
+    border-radius: 20px;
+    border: 5px double white;
+    padding: 10px;
+    box-shadow: 0px 0px 20px 2px chartreuse;
+}
+.emblem{
+    position: relative;
+    top: -30px;
+    height: 300px;
+    width: 100%;
+}
+.chapter_name{
+    height: 50px;
+    color: #1f1f11;
+    text-align: center;
+    padding: 10px;
+    background-color: chartreuse;
+    border-radius: 10px;
+    font-size: 1.3rem;
+    font-weight: 700;
+    text-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.remark{
+    position: relative;
+    top: -30px;
+    text-align: center;
+    color: darkgreen;
+    padding: 10px;
+    background-color: chartreuse;
+    border-radius: 10px;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+.open_link{
+    position: relative;
+    top: -20px;
+    text-align: center;
+    padding: 5px;
+    background-color:chartreuse;
+    border-radius: 10px;
+    font-size: 1.5rem;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+   
+}
+.certificate a{
+    text-decoration: none;
+    color: #1f1f11;
+}
+.open_link img{
+    height: 40px;
+    width: 40px;
+}
+.open_link:hover{
+    transform: scale(1.05);
+    cursor:pointer;
+}

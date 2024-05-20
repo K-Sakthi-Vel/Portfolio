@@ -1,0 +1,54 @@
+.summary{
+    height: auto;
+    width: 100%;
+    background-color: white;
+    background-image: url("../assets/images/full-stack-developer.jpg");
+    background-repeat: no-repeat;
+    background-size:contain;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #ade9f4;
+}
+.profile_pic{
+    height: 270px;
+    width: 260px;
+    border-radius: 50%;
+    margin-top: 20px;
+    background-size: cover;
+}
+.name{
+    font-size: clamp(2.5rem,.5rem + 4vw,5rem);
+    font-weight: 700;
+    color: white;
+    background-color: #1f1f1f;
+    border-radius: 30px;
+    padding: 10px;
+    box-shadow: 0px 0px 10px 5px white;
+}
+
+.role{
+    height: auto;
+    width: auto;
+    background-color:#1f1f1f;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: -20px;
+    font-size: clamp(1.5rem,.5rem + 2vw,3rem);
+    font-weight: 700;
+    color: white;
+    text-shadow: 0 0 5px #fff, 0 0 5px #fff, 0 0 5px #e60073, 0 0 5px #e60073, 0 0 5px #e60073, 0 0 5px #e60073, 0 0 5px #e60073;
+    box-shadow: 0px 0px 10px 5px violet;
+}
+
+.description{
+    width: 80%;
+    text-align: center;
+    font-size: 1.5rem;
+    margin-top: 20px;
+    background-color: white;
+    border-radius: 10px;
+    padding: 5px;
+    text-shadow: 0 0 1px #fff, 0 0 1px #fff, 0 0 1px #e60073, 0 0 1px #e60073, 0 0 1px #e60073, 0 0 1px #e60073, 0 0 1px #e60073;
+    box-shadow: 0px 0px 7px 3px white;
+}

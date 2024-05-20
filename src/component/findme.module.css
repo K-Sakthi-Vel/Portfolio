@@ -1,0 +1,76 @@
+.findme_section{
+    position: relative;
+    height:400px;
+    width: 100%;
+    background-color: #1f1f11;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+.findme_heading{
+    position: relative;
+    top: 30px;
+    text-align: center;
+    color: white;
+    font-size: 3rem;
+    display: block;
+}
+.findme_list{
+    position: relative;
+    top: 70px;
+    height: fit-content;
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.findme_list img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+.Github{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 20px 3px white;
+}
+.Code360{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 20px 3px orangered;
+}
+.Leetcode{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 20px 3px orangered;
+}
+.Linkedin{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 20px 3px lightblue;
+}
+.Gmail{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 20px 3px #e83f31;
+
+}
+.Facebook{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 20px 3px #c6d2e5;
+
+}
+.Instagram{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 20px 3px #bd327e;
+
+}

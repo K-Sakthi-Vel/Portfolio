@@ -1,0 +1,82 @@
+.footer_section{
+    position: relative;
+    height:800px;
+    width: 100%;
+    background-color: #1f1f11;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+.say_thanks{
+    position: relative;
+    top: 30px;
+    text-align: center;
+    color: aliceblue;
+    font-size: 3rem;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 600;
+}
+.lets_connect{
+    position: relative;
+    top: 30px;
+    text-align: center;
+    color: aliceblue;
+    font-family:sans-serif;
+    font-size: 3.5rem;
+    font-weight: 900;
+    background-image: linear-gradient(45deg, violet 20%, #af4261 45%,yellow 70%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.contact form{
+    position: relative;
+    top: 40px;
+    height: fit-content;
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    gap: 40px;
+}
+.contact input{
+    height: 60px;
+    width: 60%;
+    font-size: 1.5rem;
+    padding-left: 20px;
+    box-sizing: border-box;
+    color:darkmagenta;
+    font-family: monospace;
+}
+.contact textarea{
+    height: 100px;
+    width: 60%;
+    font-size: 1.5rem;
+    padding-left: 20px;
+    box-sizing: border-box;
+    padding-top: 10px;
+    color: orangered;
+}
+.contact button{
+    height: 50px;
+    width: 60%;
+    background-color: darkorchid;
+    color: aliceblue;
+    border: none;
+    font-size: 2rem;
+    transition: all .2s ease-in-out;
+    cursor: pointer;
+}
+.contact button:hover{
+    transform: scale(1.03);
+    box-shadow: 0px 0px 20px 3px darkorchid;
+}
+.copyright{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    font-size: 1.2rem;
+    color: aliceblue;
+}

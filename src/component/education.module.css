@@ -1,0 +1,124 @@
+.education_section{
+    height: 750px;
+    width: 100%;
+    border-radius: 20px;
+    margin-top: 50px;
+    background-color: #1f1f1f;
+    padding-bottom: 30px;
+}
+.education_heading{
+    position: relative;
+    top: 30px;
+    text-align: center;
+    color: white;
+    font-size: 3rem;
+    display: block;
+}
+.education_list{
+    height: auto;
+    width: 90%;
+    margin: auto;
+    border-radius: 20px;
+    display: flex;
+}
+.left_div{
+    position: relative;
+    height: 100%;
+    width: 50%;
+}
+.left_inner_div1{
+    position: absolute;
+    right: 0px;
+    top:0px;
+    height: auto;
+    width: 90%;
+    padding: 20px;
+    margin-top: 30px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px 1px darkorchid;
+}
+.left_inner_div2{
+    position: relative;
+    top: 500px;
+    right: -20px;
+    height: 50px;
+    width: 100%;
+    margin-top: 30px;
+    border-bottom: 10px solid greenyellow;
+}
+.right_div{
+    height: 100%;
+    width: 50%;
+}
+.right_inner_div1{
+    position: relative;
+    height: 50px;
+    width: 100%;
+    margin-top: 30px;
+    border-bottom: 10px solid darkorchid;
+}
+.right_inner_div2{
+    position: relative;
+    left: 20px;
+    top:120px;
+    height: auto;
+    width: 90%;
+    padding: 20px;
+    margin-top: 30px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px 1px greenyellow;
+}
+.college_duration{
+    position: absolute;
+    right: 50px;
+    bottom: -20px;
+    font-size: 2.2rem;
+    color: aliceblue;
+}
+.school_duration{
+    position: absolute;
+    left: 50px;
+    bottom: -20px;
+    font-size: 2.2rem;
+    color: aliceblue;
+    
+}
+.description{
+    margin-left: 10px;
+    text-align: justify;
+    font-size: large;
+    color: whitesmoke;
+    line-height: 30px;
+}
+.mark{
+    width: fit-content;
+    display: inline;
+    border-radius: 10px;
+    padding: 5px;
+    background-color: darkorchid;
+}
+.course1{
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 2.5rem;
+    color: darkorchid;
+}
+.course2{
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 2.5rem;
+    color: greenyellow;
+}
+.campus_name{
+    margin-top: 20px;
+    margin-left: 10px;
+    font-size: 2rem;
+    color: white;
+}
+.campus_location{
+    margin-left: 10px;
+    margin-top: -20px;
+    font-size: 1.5rem;
+    color: gray;
+
+}

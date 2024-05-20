@@ -1,0 +1,349 @@
+.project_section{
+    height: auto;
+    width: 100%;
+    border-radius: 20px;
+    margin-top: 50px;
+    background-color: #1f1f1f;
+    padding-bottom: 30px;
+}
+.heading_projects{
+    position: relative;
+    top: 30px;
+    text-align: center;
+    color: white;
+    font-size: 3rem;
+    display: block;
+}
+.projects_list{
+    height: auto;
+    width: 90%;
+    margin: auto;
+    padding-top: 40px;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 100px;
+
+}
+.project{
+    height: auto;
+    width: 90%;
+    border-radius:20px ;
+    border: 1px solid aliceblue;
+    display: flex;
+    flex-direction: column;   
+}
+.SS_project{
+    box-shadow: 0px 0px 20px 1px darkorchid; 
+}
+.A_project{
+    box-shadow: 0px 0px 20px 1px #3fef9b; 
+}
+.H_project{
+    box-shadow: 0px 0px 20px 1px #d38dad; 
+}
+.W_project{
+    box-shadow: 0px 0px 20px 1px #8a2be2; 
+}
+.F_project{
+    box-shadow: 0px 0px 20px 1px #fb8986; 
+}
+.HB_project{
+    box-shadow: 0px 0px 20px 1px #00ffff; 
+}
+.T_project{
+    box-shadow: 0px 0px 20px 1px #ff2251; 
+}
+.P_project{
+    box-shadow: 0px 0px 20px 1px #90ee90;
+}
+.D_project{
+    box-shadow: 0px 0px 20px 1px #003f66;
+}
+
+.project_details_div{
+    height: 80%;
+    width: 97%;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 20px 20px 10px 10px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.app_img{
+    height: 95%;
+    width: 30%;
+    border-radius: 20px;   
+}
+
+.SS_app_img{
+    box-shadow: 0px 0px 10px 5px darkorchid;    
+}
+.A_app_img{
+    box-shadow: 0px 0px 10px 5px #3fef9b;   
+}
+.H_app_img{
+    box-shadow: 0px 0px 10px 5px #d38dad;   
+}
+.W_app_img{
+    box-shadow: 0px 0px 10px 5px #8a2be2;  
+}
+.F_app_img{
+    box-shadow: 0px 0px 10px 5px #fb8986;   
+}
+.HB_app_img{
+    box-shadow: 0px 0px 10px 5px #00ffff;  
+}
+.T_app_img{
+    box-shadow: 0px 0px 10px 5px #ff2251;  
+}
+.P_app_img{
+    box-shadow: 0px 0px 10px 5px #90ee90;  
+}
+.D_app_img{
+    box-shadow: 0px 0px 10px 5px #003f66;  
+}
+
+.project_details{
+    height: 97%;
+    width: 65%;
+}
+.app_name{
+    color: white;
+    font-size: 1.5rem;
+    margin: auto;
+    border-bottom: 1px solid gray;
+}
+.SS_app_name{
+    text-shadow: 0px 0px 5px darkorchid;    
+}
+.A_app_name{
+    text-shadow: 0px 0px 5px #3fef9b;   
+}
+.H_app_name{
+    text-shadow: 0px 0px 5px #d38dad;   
+}
+.W_app_name{
+    text-shadow: 0px 0px 5px #8a2be2;  
+}
+.F_app_name{
+    text-shadow: 0px 0px 5px #fb8986;   
+}
+.HB_app_name{
+    text-shadow: 0px 0px 5px #00ffff;  
+}
+.T_app_name{
+    text-shadow: 0px 0px 5px #ff2251;  
+}
+.P_app_name{
+    text-shadow: 0px 0px 5px #90ee90;  
+}
+.D_app_name{
+    text-shadow: 0px 0px 15px #003f66;  
+}
+.app_desc{
+    color: white;
+    text-align:justify;
+    text-indent: 1px;
+    font-weight: 500;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.tech_stack_title{
+    color: white;
+    font-size: 1.5rem;
+    margin: auto;
+    border-bottom: 1px solid gray;
+}
+.tech_list,
+.architecture_list{
+    height:100px;
+    width: 100%;
+    padding-top: 10px;
+    display: flex;
+    flex-wrap:wrap;
+    gap: 20px;
+}
+.tech,
+.architecture{
+    height: fit-content;
+    border-radius: 5px;
+    padding: 7px;
+    color: white;
+    box-shadow: 0 0 5px 1px black;
+    border: .5px solid #1f1f1f;
+    font-weight: 600;
+    text-shadow: 0px 0px 5px black;
+}
+
+.architectures{
+    display:flex;
+    gap: 20px;
+}
+.SStech,
+.SSarchitecture{
+    background-color: darkorchid;
+}
+.A_tech,
+.A_architecture{
+    background-color: #3fef9b;
+}
+.H_tech,
+.H_architecture{
+    background-color: #d38dad;
+}
+.W_tech,
+.W_architecture{
+    background-color: #8a2be2;
+}
+.F_tech,
+.F_architecture{
+    background-color: #fb8986;
+}
+.HB_tech,
+.HB_architecture{
+    background-color: #00ffff;
+}
+.T_tech,
+.T_architecture{
+    background-color: #ff2251;
+}
+.P_tech,
+.P_architecture{
+    background-color: #90ee90;
+}
+.D_tech,
+.D_architecture{
+    background-color: #003f66;
+}
+.access_app{
+    height: 10%;
+    width: 97%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 10px;
+    gap: 10px;
+}
+.open_app{
+    height: fit-content;
+    width: 50%;
+    padding: 7px;
+    text-align: center;
+    font-size: larger;
+    border-radius: 10px 10px 10px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.open_app a,
+.open_code a{
+    color: white;
+}
+
+.open_code{
+    height: fit-content;
+    width: 50%;
+    padding: 7px;
+    text-align: center;
+    font-size: larger;
+    border-radius: 10px 10px 20px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.open_app img,
+.open_code img{
+    height: 30px;
+    width: 30px;
+}
+.open_app a,
+.open_code a{
+    text-decoration: none;
+}
+.SSopen_app:hover,
+.SSopen_code:hover{
+    background-color: darkorchid;
+    box-shadow: 0px 0px 10px 2px darkorchid;
+    color: aliceblue;    
+}
+.A_open_app:hover,
+.A_open_code:hover{
+    background-color: #3fef9b;
+    box-shadow: 0px 0px 10px 2px #3fef9b;
+}
+
+.H_open_app:hover,
+.H_open_code:hover{
+    background-color: #d38dad;
+    box-shadow: 0px 0px 10px 2px #d38dad;
+}
+.W_open_app:hover,
+.W_open_code:hover{
+    background-color: #8a2be2;
+    box-shadow: 0px 0px 10px 2px #8a2be2;
+}
+.F_open_app:hover,
+.F_open_code:hover{
+    background-color: #fb8986;
+    box-shadow: 0px 0px 10px 2px #fb8986;
+}
+.HB_open_app:hover,
+.HB_open_code:hover{
+    background-color: #00ffff;
+    box-shadow: 0px 0px 10px 2px #00ffff;
+}
+.T_open_app:hover,
+.T_open_code:hover{
+    background-color: #ff2251;
+    box-shadow: 0px 0px 10px 2px #ff2251;
+}
+.P_open_app:hover,
+.P_open_code:hover{
+    background-color: #90ee90;
+    box-shadow: 0px 0px 10px 2px #90ee90;
+}
+.D_open_app:hover,
+.D_open_code:hover{
+    background-color:#003f66;
+    box-shadow: 0px 0px 10px 2px #003f66;
+}
+
+.SSopen_app,
+.SSopen_code{
+    border: 1px solid darkorchid;
+}
+.A_open_app,
+.A_open_code{
+    border: 1px solid #3fef9b;
+}
+.H_open_app,
+.H_open_code{
+    border: 1px solid #d38dad;
+}
+.W_open_app,
+.W_open_code{
+    border: 1px solid #8a2be2;
+}
+.F_open_app,
+.F_open_code{
+    border: 1px solid #fb8986;
+}
+.HB_open_app,
+.HB_open_code{
+    border: 1px solid #00ffff;
+}
+.T_open_app,
+.T_open_code{
+    border: 1px solid #ff2251;
+}
+.P_open_app,
+.P_open_code{
+    border: 1px solid #90ee90;
+}
+.D_open_app,
+.D_open_code{
+    border: 1px solid #003f66;
+}
