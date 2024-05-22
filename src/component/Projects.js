@@ -86,14 +86,14 @@ function Projects (){
                     <div className={`${Styles.open_app} ${Styles.SSopen_app}`}>
                         <img src={Open_app} alt="open"/>
                         &nbsp;
-                        <a href="https://sakthi-stores-online-shop.cyclic.app/" target="_blank">
+                        <a href="https://sakthi-stores.onrender.com/" target="_blank">
                             Open app
                         </a>
                     </div>
                     <div className={`${Styles.open_code} ${Styles.SSopen_code}`}>
                         <img src={Open_git} alt="open"/>
                         &nbsp;
-                        <a href="https://github.com/sakthivel-programmer/Sakthi_Stores" target="_blank">
+                        <a href="https://github.com/K-Sakthi-Vel/Sakthi-Stores" target="_blank">
                             Source code
                         </a>
                         
@@ -167,14 +167,14 @@ function Projects (){
                     <div className={`${Styles.open_app} ${Styles.A_open_app}`}>
                         <img src={Open_app} alt="open"/>
                         &nbsp;
-                        <a href="https://ks333-authenticatia.cyclic.app/" target="_blank">
+                        <a href="https://authenticatia.onrender.com/" target="_blank">
                             Open app
                         </a>
                     </div>
                     <div className={`${Styles.open_code} ${Styles.A_open_code}`}>
                         <img src={Open_git} alt="open"/>
                         &nbsp;
-                        <a href="https://github.com/k-sakthi-coder/Authenticatia" target="_blank">
+                        <a href="https://github.com/K-Sakthi-Vel/Authenticatia" target="_blank">
                             Source code
                         </a>
                         
@@ -232,7 +232,7 @@ function Projects (){
                     <div className={`${Styles.open_code} ${Styles.D_open_code}`}>
                         <img src={Open_git} alt="open"/>
                         &nbsp;
-                        <a href="https://github.com/sakthivel-programmer/DoraemonAi" target="_blank">
+                        <a href="https://github.com/K-Sakthi-Vel/Doraemon-AI" target="_blank">
                             Source code
                         </a>
                         
@@ -316,7 +316,7 @@ function Projects (){
                     <div className={`${Styles.open_code} ${Styles.H_open_code}`}>
                         <img src={Open_git} alt="open"/>
                         &nbsp;
-                        <a href="https://github.com/sakthivel-programmer/HeyTHERE" target="_blank">
+                        <a href="https://github.com/K-Sakthi-Vel/HeyTHERE" target="_blank">
                             Source code
                         </a>
                         
@@ -385,7 +385,7 @@ function Projects (){
                     <div className={`${Styles.open_code} ${Styles.W_open_code}`}>
                         <img src={Open_git} alt="open"/>
                         &nbsp;
-                        <a href="https://github.com/sakthivel-programmer/WeathaQuest" target="_blank">
+                        <a href="https://github.com/K-Sakthi-Vel/WeathaQuest" target="_blank">
                             Source code
                         </a>
                         
@@ -444,14 +444,14 @@ function Projects (){
                     <div className={`${Styles.open_app} ${Styles.F_open_app}`}>
                         <img src={Open_app} alt="open"/>
                         &nbsp;
-                        <a href="https://ks333-authenticatia.cyclic.app/" target="_blank">
+                        <a href="https://filmocean.vercel.app/" target="_blank">
                             Open app
                         </a>
                     </div>
                     <div className={`${Styles.open_code} ${Styles.F_open_code}`}>
                         <img src={Open_git} alt="open"/>
                         &nbsp;
-                        <a href="https://github.com/k-sakthi-coder/Authenticatia" target="_blank">
+                        <a href="https://github.com/K-Sakthi-Vel/Filmocean" target="_blank">
                             Source code
                         </a>
                         
@@ -520,7 +520,7 @@ function Projects (){
                     <div className={`${Styles.open_code} ${Styles.P_open_code}`}>
                         <img src={Open_git} alt="open"/>
                         &nbsp;
-                        <a href="https://github.com/sakthivel-programmer/PicaQuest" target="_blank">
+                        <a href="https://github.com/K-Sakthi-Vel/PicaQuest" target="_blank">
                             Source code
                         </a>
                         
@@ -583,14 +583,14 @@ function Projects (){
                     <div className={`${Styles.open_app} ${Styles.HB_open_app}`}>
                         <img src={Open_app} alt="open"/>
                         &nbsp;
-                        <a href="https://ks333-authenticatia.cyclic.app/" target="_blank">
+                        <a href="" target="_blank">
                             Open app
                         </a>
                     </div>
                     <div className={`${Styles.open_code} ${Styles.HB_open_code}`}>
                         <img src={Open_git} alt="open"/>
                         &nbsp;
-                        <a href="https://github.com/k-sakthivel-coderr/Habicter" target="_blank">
+                        <a href="https://github.com/K-Sakthi-Vel/Habicter" target="_blank">
                             Source code
                         </a>
                         
@@ -649,14 +649,14 @@ function Projects (){
                     <div className={`${Styles.open_app} ${Styles.T_open_app}`}>
                         <img src={Open_app} alt="open"/>
                         &nbsp;
-                        <a href="https://sakthivel-programmer.github.io/Todoaster/" target="_blank">
+                        <a href="https://todoaster.vercel.app/" target="_blank">
                             Open app
                         </a>
                     </div>
                     <div className={`${Styles.open_code} ${Styles.T_open_code}`}>
                         <img src={Open_git} alt="open"/>
                         &nbsp;
-                        <a href="https://github.com/sakthivel-programmer/Todoaster" target="_blank">
+                        <a href="https://github.com/K-Sakthi-Vel/Todoaster" target="_blank">
                             Source code
                         </a>
                         
