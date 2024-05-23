@@ -583,7 +583,7 @@ function Projects (){
                     <div className={`${Styles.open_app} ${Styles.HB_open_app}`}>
                         <img src={Open_app} alt="open"/>
                         &nbsp;
-                        <a href="" target="_blank">
+                        <a href="https://habicter.onrender.com/" target="_blank">
                             Open app
                         </a>
                     </div>
